@@ -1,1 +1,2 @@
-new readme file is added and I changes this line of code as well
+# Example repository 
+This repository is used just to learn the git commands and working of github
